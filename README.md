@@ -1,1 +1,1 @@
-# IAC
+# IAC - Introduction to Computer Architecture
